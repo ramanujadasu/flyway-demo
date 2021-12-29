@@ -2,7 +2,8 @@
 
 Learn how to integrate Flyway in your Spring Boot application -
 
-https://www.callicoder.com/spring-boot-flyway-database-migration-example/
+https://github.com/ramanujadasu/flyway-demo
+
 
 ## Requirements
 
@@ -12,12 +13,14 @@ https://www.callicoder.com/spring-boot-flyway-database-migration-example/
 
 3. MySQL - 5.x.x
 
+4. Flyway
+
 ## Steps to setup
 
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-flyway-example.git
+git clone https://github.com/ramanujadasu/flyway-demo
 ```
 
 **2. Create Mysql database**
@@ -44,3 +47,10 @@ You can also run the app without packaging it using -
 ```bash
 mvn spring-boot:run
 ```
+
+## Flyway References:
+https://flywaydb.org/documentation/concepts/migrations
+
+https://flywaydb.org/documentation/usage/plugins/springboot
+
+https://javatodev.com/flyway-spring-boot

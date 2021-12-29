@@ -1,2 +1,3 @@
-INSERT INTO users(username, first_name, last_name) VALUES('callicoder', 'Rajeev', 'Singh');
-INSERT INTO users(username, first_name, last_name) VALUES('flywaytest', 'Flyway', 'Test');
+INSERT INTO users(username, first_name, last_name) VALUES('kailash', 'Kailash', 'Patil');
+INSERT INTO users(username, first_name, last_name) VALUES('navaneet', 'Navaneet', 'Kumar');
+INSERT INTO users(username, first_name, last_name) VALUES('amit', 'Amit', 'Q');
